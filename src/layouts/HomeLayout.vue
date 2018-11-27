@@ -201,6 +201,12 @@ export default {
   padding: 0;
   text-align: left;
 }
+.footer-button:hover {
+  color: #F15B4B;
+}
+.footer-button--selected {
+  color: #F15B4B;
+}
 .footer {
   border-top: 1px solid #E1E1E1;
   padding: 60px;
